@@ -1,5 +1,8 @@
 # Object Oriented Programming in Python
 
+00. [OOPs](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#what-do-you-understand-by-oops)
+01. [Classes](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#01-classes)
+
 ------------
 ## What do you understand by OOPs?
 -Object-Oriented Programming (OOP).
@@ -10,7 +13,6 @@ The oops concept focuses on writing the reusable code.
 It is a widespread technique to solve the problem by creating objects.
 
 ------------
-01. [Classes]()
 
 ## NOTES
 ------------
