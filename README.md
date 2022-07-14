@@ -2,9 +2,10 @@
 
 00. [OOPs](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#what-do-you-understand-by-oops)
 01. [Classes](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#01-classes)
-02. [Methods/Functions](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#02-methodsfunctions)
+02. [Methods-Functions](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#02-methodsfunctions)
 03. [Objects](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#03-objects)
 04. [Constructors](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#04-constructors)
+05. [Inheritance](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#04-constructors)
 
 ------------
 ## What do you understand by OOPs?
@@ -32,9 +33,11 @@ class myClass():
 ------------
 ------------
 
-#### 02. Methods/Functions
+#### 02. Methods-Functions
 
 - Inside classes, you can define functions or methods that are part of this class
+- Difference between functions and methods
+    * Functions can be called only by its name, as it is defined independently. But methods can't be called by its name only, we need to invoke the class by a reference of that class in which it is defined, i.e. method is defined within a class and hence they are dependent on that class.
 
 ```
 def method1 (self):
@@ -57,6 +60,11 @@ class myClass():
     - “self”
         - The self-argument refers to the object itself. Hence the use of the word self. So inside this method, self will refer to the specific instance of this object that’s being operated on.
         - Self is the name preferred by convention by Pythons to indicate the first parameter of instance methods in Python. It is part of the Python syntax to access members of objects
+
+- Types of methods- [Check code for reference](Methods/methods.py))
+    * Instance Method
+    * Class Method
+    * Static Method
 ------------
 ------------
 #### 03. Objects
@@ -107,4 +115,9 @@ The __init__ method lets the class initialize the object's attributes and serves
 def __init__(self):
     # body of the constructor
 ```
+------------
+------------
+#### 05. Inheritance
+
+
 ------------
