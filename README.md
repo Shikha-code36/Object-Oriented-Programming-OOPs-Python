@@ -3,6 +3,8 @@
 00. [OOPs](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#what-do-you-understand-by-oops)
 01. [Classes](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#01-classes)
 02. [Methods/Functions](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#02-methodsfunctions)
+03. [Objects](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#03-objects)
+04. [Constructors](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#04-constructors)
 
 ------------
 ## What do you understand by OOPs?
@@ -78,10 +80,10 @@ obj.method1()
 # Example file for working with classes
 class myClass():
   def method1(self):
-      print("Guru99")
+      print("OOPs")
         
   def method2(self,someString):    
-      print("Software Testing:" + someString)
+      print("Program-Method" + someString)
   
       
 def main():           
@@ -92,5 +94,17 @@ def main():
   
 if __name__== "__main__":
   main()
+```
+------------
+------------
+#### 04. Constructors
+
+Constructors are generally used for instantiating an object. The task of constructors is to initialize(assign values) to the data members of the class when an object of the class is created. In Python the __init__() method is called the constructor and is always called when an object is created.
+
+The __init__ method lets the class initialize the object's attributes and serves no other purpose. It is only used within classes.
+
+```
+def __init__(self):
+    # body of the constructor
 ```
 ------------
