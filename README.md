@@ -5,7 +5,7 @@
 
 ------------
 ## What do you understand by OOPs?
--Object-Oriented Programming (OOP).
+- Object-Oriented Programming (OOP).
 The concept of OOP in Python focuses on creating reusable code. 
 An object-oriented paradigm is to design the program using classes and objects. 
 The object is related to real-word entities such as book, house, pencil, etc. 
