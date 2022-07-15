@@ -43,7 +43,7 @@ class myClass():
 def method1 (self):
    print("OOPs")
 def method2 (self,someString): 
-   print ("Program-Method" )+ someString
+   print ("Program-Method"+ someString)
 ```
 . Here we have defined method1 that prints “OOPs”
 . Another method we have defined is method2 that prints “Program-Method”+ SomeString. SomeString is the variable supplied by the calling method
