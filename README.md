@@ -68,7 +68,7 @@ class myClass():
     * Class Method
     * Static Method
         
-        *We have one more method called [magic method](Methods/magic-method.py)
+        * We have one more method called [magic method](Methods/magic-method.py)
 
 ------------
 ------------
