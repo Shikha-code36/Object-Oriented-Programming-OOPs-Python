@@ -121,5 +121,8 @@ def __init__(self):
 ------------
 #### 05. Inheritance
 
+With inheritance one class can derive the properties of another class.
+ex- Man Inheriting features from his father
 
+[Detailed Explanation](Inheritance)
 ------------
