@@ -5,7 +5,8 @@
 02. [Methods-Functions](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#02-methodsfunctions)
 03. [Objects](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#03-objects)
 04. [Constructors](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#04-constructors)
-05. [Inheritance](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#04-constructors)
+05. [Inheritance](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#05-inheritance)
+06. [Encapsulation](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#06-encapsulation)
 
 ------------
 ## What do you understand by OOPs?
@@ -130,5 +131,12 @@ With inheritance one class can derive the properties of another class.
 ex- Man Inheriting features from his father
 
 [Detailed Explanation](05.Inheritance)
+
+------------
+#### 06. Encapsulation
+
+Encapsulation involves the bundling of data members and functions inside a single class. Bundling similar data members and functions inside a class also helps in data hiding. Encapsulation also ensures that objects are self-sufficient functioning pieces and can work independently.
+
+[Detailed Explanation](06.Encapsulation)
 
 ------------
