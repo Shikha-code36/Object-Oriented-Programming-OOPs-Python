@@ -9,7 +9,7 @@
 06. [Encapsulation](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#06-encapsulation)
 07. [Polymorphism](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#07-polymorphism)
 08. [Decorators](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#08-decorators)
-09. [Method Overloading](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#08-decorators)
+09. [Method Overloading](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#09-method-overloading)
 
 ------------
 ## What do you understand by OOPs?
