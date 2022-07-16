@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 # init_constructor-2.py
 
 # We add a test in the __init__() constructor to check

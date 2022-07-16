@@ -1,4 +1,4 @@
-#!/usr/bin/env python2.7
+
 
 # class-attributes-1.py
 
@@ -17,9 +17,9 @@ class YourClass(object):
 
 
 dd = YourClass()
-dd.classy  # This will fetch the class attribute 10.
+print(dd.classy) #10  # This will fetch the class attribute 10.
 dd.set_val()
-dd.insty  # This will fetch the instance attribute 100.
+print(dd.insty) #100  # This will fetch the instance attribute 100.
 
 # Once `dd` is instantiated, we can access both the class and instance
 # attributes, ie.. dd.classy and dd.insty.

@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 # init_constructor.py
 
 # __init__() is a constructor method which helps to
