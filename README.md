@@ -140,3 +140,12 @@ Encapsulation involves the bundling of data members and functions inside a singl
 [Detailed Explanation](06.Encapsulation)
 
 ------------
+------------
+#### 07. Polymorphism
+
+The literal meaning of polymorphism is the condition of occurrence in different forms.
+Polymorphism in python defines methods in the child class that have the same name as the methods in the parent class. In inheritance, the child class inherits the methods from the parent class. Also, it is possible to modify a method in a child class that it has inherited from the parent class.
+
+[Detailed Explanation](07.Polymorphism)
+
+------------
