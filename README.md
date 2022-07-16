@@ -67,6 +67,9 @@ class myClass():
     * Instance Method
     * Class Method
     * Static Method
+        
+        *We have one more method called [magic method](Methods/magic-method.py)
+
 ------------
 ------------
 #### 03. Objects
