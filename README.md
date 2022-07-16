@@ -30,6 +30,7 @@ In Python, classes are defined by the “Class” keyword
 ```
 class myClass():
 ```
+[Class Attributes]()
 ------------
 ------------
 
