@@ -30,7 +30,7 @@ In Python, classes are defined by the “Class” keyword
 ```
 class myClass():
 ```
-[Class Attributes](Class-Attributes)
+[Class Attributes](01.Class-Attributes)
 
 ------------
 ------------
@@ -63,12 +63,12 @@ class myClass():
         - The self-argument refers to the object itself. Hence the use of the word self. So inside this method, self will refer to the specific instance of this object that’s being operated on.
         - Self is the name preferred by convention by Pythons to indicate the first parameter of instance methods in Python. It is part of the Python syntax to access members of objects
 
-- Types of methods- [Check code for reference](Methods/methods.py))
+- Types of methods- [Check code for reference](02.Methods/methods.py))
     * Instance Method
     * Class Method
     * Static Method
         
-        * We have one more method called [magic method](Methods/magic-method.py)
+        * We have one more method called [magic method](02.Methods/magic-method.py)
 
 ------------
 ------------
@@ -121,7 +121,7 @@ def __init__(self):
     # body of the constructor
 ```
 
-* More about __init__ constructor [Link](init_constructor)
+* More about __init__ constructor [Link](04.init-constructor)
 ------------
 ------------
 #### 05. Inheritance
@@ -129,6 +129,6 @@ def __init__(self):
 With inheritance one class can derive the properties of another class.
 ex- Man Inheriting features from his father
 
-[Detailed Explanation](Inheritance)
+[Detailed Explanation](05.Inheritance)
 
 ------------
