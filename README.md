@@ -9,6 +9,7 @@
 06. [Encapsulation](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#06-encapsulation)
 07. [Polymorphism](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#07-polymorphism)
 08. [Decorators](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#08-decorators)
+09. [Method Overloading](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#08-decorators)
 
 ------------
 ## What do you understand by OOPs?
@@ -160,5 +161,17 @@ Decorators are used to add functionality to an existing code.
 This is also called metaprogramming because a part of the program tries to modify another part of the program at compile time.
 
 [Detailed Explanation](08.Decorators)
+
+------------
+------------
+#### 09. Method Overloading
+
+Two methods cannot have the same name in Python. Method overloading in Python is a feature that allows the same operator to have different meanings.
+
+Overloading is the ability of a function or an operator to behave in different ways based on the parameters that are passed to the function, or the operands that the operator acts on.
+
+In Python, you can create a method that can be called in different ways. So, you can have a method that has zero, one or more number of parameters. Depending on the method definition, we can call it with zero, one or more arguments.
+
+[Detailed Explanation](09.Method_overloading)
 
 ------------
