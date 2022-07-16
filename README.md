@@ -7,6 +7,7 @@
 04. [Constructors](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#04-constructors)
 05. [Inheritance](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#05-inheritance)
 06. [Encapsulation](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#06-encapsulation)
+07. [Polymorphism](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#07-polymorphism)
 
 ------------
 ## What do you understand by OOPs?
