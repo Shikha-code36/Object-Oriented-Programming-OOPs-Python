@@ -126,4 +126,5 @@ With inheritance one class can derive the properties of another class.
 ex- Man Inheriting features from his father
 
 [Detailed Explanation](Inheritance)
+
 ------------
