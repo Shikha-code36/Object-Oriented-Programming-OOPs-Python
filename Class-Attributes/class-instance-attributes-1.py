@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 # class-instance-attributes-1.py
 
 # This code shows that an Instance can access it's own
@@ -34,3 +32,19 @@ c = InstanceCounter(15)
 for obj in (a, b, c):
     print("value of obj: %s" % obj.get_val())
     print("Count : %s" % obj.get_count())
+
+'''
+O/P-
+5
+value of obj: None
+3
+Count : None
+10
+value of obj: None
+3
+Count : None
+15
+value of obj: None
+3
+Count : None
+'''

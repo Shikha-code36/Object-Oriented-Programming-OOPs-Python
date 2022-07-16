@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 # class-attributes-2.py
 
 # The code below shows two important points:
@@ -31,3 +29,10 @@ print(dd.classy)  # This should return the string "Instance value"
 del dd.classy
 # Since the overriding attribute was deleted, this will print 'class value'.
 print(dd.classy)
+
+'''
+O/P-
+class value
+Instance value
+class value
+'''
