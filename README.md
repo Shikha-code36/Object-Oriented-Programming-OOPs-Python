@@ -115,6 +115,8 @@ The __init__ method lets the class initialize the object's attributes and serves
 def __init__(self):
     # body of the constructor
 ```
+
+* More about __init__ constructor [Link](init_constructor)
 ------------
 ------------
 #### 05. Inheritance
