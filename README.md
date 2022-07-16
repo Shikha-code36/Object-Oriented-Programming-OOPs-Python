@@ -8,6 +8,7 @@
 05. [Inheritance](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#05-inheritance)
 06. [Encapsulation](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#06-encapsulation)
 07. [Polymorphism](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#07-polymorphism)
+08. [Decorators](https://github.com/Shikha-code36/Object-Oriented-Programming-OOPs-Python#08-decorators)
 
 ------------
 ## What do you understand by OOPs?
@@ -148,5 +149,16 @@ The literal meaning of polymorphism is the condition of occurrence in different 
 Polymorphism in python defines methods in the child class that have the same name as the methods in the parent class. In inheritance, the child class inherits the methods from the parent class. Also, it is possible to modify a method in a child class that it has inherited from the parent class.
 
 [Detailed Explanation](07.Polymorphism)
+
+------------
+------------
+#### 08. Decorators
+
+A decorator takes in a function, adds some functionality and returns it.
+Decorators are used to add functionality to an existing code.
+
+This is also called metaprogramming because a part of the program tries to modify another part of the program at compile time.
+
+[Detailed Explanation](08.Decorators)
 
 ------------
