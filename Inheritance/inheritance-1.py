@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 # inheritance-1.py
 
 # The code below shows how a class can inherit from another class.

@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 # multiple-inheritance-1.py
 
 # Python supports multiple inheritance and uses a depth-first order

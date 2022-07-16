@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 # multiple-inheritance-3.py
 
 # Python supports multiple inheritance

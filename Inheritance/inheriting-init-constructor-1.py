@@ -1,5 +1,3 @@
-#!/usr/bin/env python
-
 # inheriting-init-constructor-1.py
 
 # This is a normal inheritance example from which we build
