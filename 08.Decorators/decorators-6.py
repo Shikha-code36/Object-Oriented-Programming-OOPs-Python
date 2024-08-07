@@ -14,7 +14,7 @@ def decorated(string_args):
 
 @decorator
 def alsoDecorated(num1, num2):
-    print("Sum of " + str(num1) + "and" + str(num2) + ": " + str(num1 + num2))
+    print("Sum of " + str(num1) + " and " + str(num2) + ": " + str(num1 + num2))
 
 
 if __name__ == "__main__":
@@ -26,5 +26,5 @@ O/P-
 This function takes 1 arguments
 This happened: Hello
 This function takes 2 arguments
-Sum of 1and2: 3
+Sum of 1 and 2: 3
 '''
