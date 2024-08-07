@@ -12,9 +12,9 @@ import datetime
 
 def my_decorator(inner):
     def inner_decorator(num_copy):
-        print(datetime.datetime.utcnow())
+        print(datetime.now(datetime.UTC))
         inner(int(num_copy) + 1)
-        print(datetime.datetime.utcnow())
+        print(datetime.now(datetime.UTC))
 
     return inner_decorator
 

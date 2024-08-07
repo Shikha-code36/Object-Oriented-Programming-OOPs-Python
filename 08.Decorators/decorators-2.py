@@ -9,9 +9,9 @@ import datetime
 
 def my_decorator(inner):
     def inner_decorator():
-        print(datetime.datetime.utcnow())
+        print(datetime.now(datetime.UTC))
         inner()
-        print(datetime.datetime.utcnow())
+        print(datetime.now(datetime.UTC))
 
     return inner_decorator
 
