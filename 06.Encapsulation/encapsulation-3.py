@@ -27,31 +27,33 @@ class MyInteger(object):
         self.val = val
 
     def get_val(self):
-        print(self.val)
+        return self.val
 
     def increment_val(self):
-        self.val = self.val + 1
-        print(self.val)
+        self.set_val(self.get_val()+1)
 
 
 a = MyInteger()
 a.set_val(10)
-a.get_val()
+print(a.get_val())
 a.increment_val()
+print(a.get_val())
 print("Before Break")
 
 # Trying to break encapsulation in a new instance with an int
 c = MyInteger()
 c.val = 15
-c.get_val()
+print(c.get_val())
 c.increment_val()
+print(c.get_val())
 print("After Break")
 
 # Trying to break encapsulation in a new instance with a str
 b = MyInteger()
 b.val = "MyString"  # <== Breaking encapsulation, works fine
-b.get_val()  # <== Prints the val set by breaking encap
+print(b.get_val())  # <== Prints the val set by breaking encap
 b.increment_val()  # This will fail, since str + int wont work
+print(b.get_val())
 print("Changing DataType")
 '''
 O/P-
